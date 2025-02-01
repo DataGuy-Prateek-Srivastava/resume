@@ -1,10 +1,25 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Silver Star Award
+  organization: HDFC Bank Ltd
+  year: 09/2024 
+  summary: Facilitating the adoption of an OCR-based system for verifying employment for TTD PL Journey, specifically targeting applicants working in government sector positions, will be included. Where I was responsible for Model performance testing to cost-benefit and coverage analysis, etc.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Silver Star Award
+  organization: HDFC Bank Ltd
+  year: 03/2023
+  summary: For developing banking narration-based intelligence using RegEx to flag fraudulent salary credit transactions.
+
+- award: Heroes Award
+  organization: Bajaj Finance Ltd
+  year: 01/2022
+  summary: For developing Google Plus code-based Geo-fencing to dynamically identify residential and office hotspots, reducing the need for CPV and better understanding of the customer.
+
+- award: SQL Hero
+  organization: Bajaj Finance Ltd
+  year: 02/2021
+  summary: For writing efficient SQL queries for data retrieval by using optimized clustering and indexes on Azure SQL, minimizing shuffling.
+
+- award: Shining Star Award
+  organization: EXL Services
+  year: 03/2019
+  summary: For automating the weekly campaign base, reducing execution time, and increasing accuracy through minimal human involvement.
