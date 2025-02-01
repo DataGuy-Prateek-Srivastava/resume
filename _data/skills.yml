@@ -2,7 +2,7 @@
 - skill: Languages & Tools
   description: Python, SQL (Azure SQL, IBM DB2, SQLite, T-SQL), Java
 
-- skill: Python Packages:
+- skill: Python Packages
   description: Pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost, NLTK, Matplotlib, Seaborn
 
 - skill: Analytics Techniques
