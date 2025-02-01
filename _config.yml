@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Portfolio"
-description: "A resume for Prateek Srivastava using Jekyll and GitHub Pages sites."
+title: "Prateek Srivastava - Portfolio"
+description: "Portfolio using Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
