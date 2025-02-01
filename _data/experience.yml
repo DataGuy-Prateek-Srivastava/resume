@@ -1,9 +1,15 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: HDFC Bank Ltd, New Delhi, Delhi
+  position: Manager - Credit Risk Analytics
+  duration: 04/2022 &mdash; Present
+  summary: <ul class="resume-item-list">
+              <li>Coordinated the implementation of internally created fraud triggers associated with Bank Statements to identify Simulated Bank Statements associated with Mule Accounts, as mandated by the RBI. Utilizing these triggers, we have also excluded these applications from Digital Credit Decisioning in the Business Loan Journey.</li>
+              <li>Built and deployed a Machine Learning model for underwriter cost optimization, eliminating 12% of high-risk customers, achieving a 91% bad rate, and reducing underwriting costs by 15%.</li>
+              <li>Spearheaded the integration of Bureau-like internal data sources, improving the Bureau Obligation Model’s predictive accuracy by 8%</li>
+              <li>Redesigned the bank statement-based income verification algorithm, increasing fraud detection accuracy by 19%. Collaborated with the Fraud Intelligence team to develop targeted checks for fraudulent salary credits, boosting detection rates by 15%.</li>
+              <li>Introduced an OCR-based employment verification process for government employees, reducing manual verifications by 20% and generating Rs 33.45 Lakhs in projected annual profit.</li>
+            </ul>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
