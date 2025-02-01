@@ -11,15 +11,21 @@
               <li>Introduced an OCR-based employment verification process for government employees, reducing manual verifications by 20% and generating Rs 33.45 Lakhs in projected annual profit.</li>
             </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Bajaj Finance Ltd, Pune, Maharashtra
+  position: Unit Manager - Precision Marketing
+  duration: 01/2021 &mdash; 03/2022
+  summary: <ul class="resume-item-list">
+              <li>A Geo-location-based statistical model was developed and implemented, accurate up to 14 meters on the ground. This innovation increased the precision of customer’s Geographical Boundary tagging by 27%, significantly improving targeted marketing efforts.</li>
+              <li>Engineered an 87% accurate rule-based model for Personal Loan Propensity, enabling precise identification of high-propensity conversion journeys.</li>
+              <li>Boosted conversion rates by 40% across personal loan and credit card channels, implementing Azure Event Hub API to enable near-real-time lead engagement for partner leads.</li>
+              <li>Optimized UTM governance model via web scraping, reducing false attributions by 15% and improving tracking accuracy through parameter customization.</li>
+            </ul>
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: EXL Services, Bangalore, Karnataka
+  position: Business Analyst - Asset Management
+  duration: 06/2018  &mdash; 12/2020
+  summary: <ul class="resume-item-list">
+             <li>Designed and executed a lookalike modeling campaign to identify clients with similar portfolio profiles, generating $1 million in profit through enhanced client targeting and retention.</li>
+             <li>Developed and validated a customer attrition model with 82% predictive accuracy, identifying high-risk accounts and implementing retention strategies that preserved investment capital.</li>
+             <li>Built a cross-sell and up-sell recommendation model using ALS in PySpark, increasing cross-sell effectiveness by 30% and generating targeted data-driven fund recommendations.</li>
+            </ul>
